@@ -1,0 +1,23 @@
+{
+  "name": "public-sandbox",
+  "version": "1.0.0",
+  "description": "Test repo",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "test",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-horvath/public-sandbox.git"
+  },
+  "author": "Christine Horvath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-horvath/public-sandbox/issues"
+  },
+  "homepage": "https://github.com/C-horvath/public-sandbox#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
